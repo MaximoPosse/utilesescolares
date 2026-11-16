@@ -36,7 +36,7 @@ export const ROLES = {
   comision_comunicacion: {
     label: 'Comisión de comunicación',
     short: 'Comunicación',
-    descripcion: 'Crea, edita y elimina avisos para la comunidad.',
+    descripcion: 'Crea, edita y archiva avisos para la comunidad (no se borran: quedan en el historial).',
   },
   comision_organizacion: {
     label: 'Comisión de organización',
